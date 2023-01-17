@@ -13,4 +13,6 @@ new Vue({
 
 
 
+output(data_bank.deposit);
+output(data_bank.currency);
 
