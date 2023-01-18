@@ -1,48 +1,48 @@
 export default [
     {
-        title: 'Радионяня Motorola MBP16',
-        price: 3690,
-        image: '/img/radio.jpg'
+        title: 'GeForce GTX 1050Ti',
+        price: 5000,
+        image: '/img/1050ti.jpg'
     },
     {
-        title: 'Ультразвуковая зубная щётка Playbrush Smart Sonic',
-        price: 5660,
-        image: '/img/toothbrush.jpg'
+        title: 'GTX 1650',
+        price: 12000,
+        image: '/img/1650.jpg'
     },
     {
-        title: 'Смартфон Xiaomi Mi Mix 3 6/128GB',
-        price: 21790,
-        image: '/img/phone.jpg'
+        title: 'RTX 3060',
+        price: 16000,
+        image: '/img/3060.jpg'
     },
     {
-        title: 'Электроскейт Razor Cruiser',
-        price: 24690,
-        image: '/img/board.jpg'
+        title: 'RX 6500 XT',
+        price: 13000,
+        image: '/img/6500.jpg'
     },
     {
-        title: ' Смартфон Xiaomi Mi A3 4/64GB Android One ',
-        price: 14960,
-        image: '/img/phone-2.jpg'
+        title: 'RX 6600 XT',
+        price: 18000,
+        image: '/img/6600.jpg'
     },
     {
-        title: 'Электрический дрифт-карт Razor Crazy Cart',
-        price: 39900,
-        image: '/img/bicycle.jpg'
+        title: 'RX 570 8GB (БУ)',
+        price: 4000,
+        image: '/img/570.jpg'
     },
     {
-        title: 'Смартфон Xiaomi Redmi 6/128GB',
-        price: 8960,
-        image: '/img/phone-3.jpg'
+        title: 'RTX 4090',
+        price: 32000,
+        image: '/img/4090.jpg'
     },
     {
-        title: 'Гироскутер Razor Hovertrax 2.0',
-        price: 34900,
-        image: '/img/wheels.jpg'
+        title: 'RTX 3080',
+        price: 25000,
+        image: '/img/3080.jpg'
     },
     {
-        title: 'Гироскутер Razor Hovertrax 2.0',
-        price: 34900,
-        image: '/img/wheels.jpg'
+        title: 'GTX 1060 6GB (БУ)',
+        price: 5000,
+        image: '/img/1060.jpg'
     },
 
 ]

@@ -1,4 +1,3 @@
-/* eslint-disable */
 import Vue from 'vue';
 import App from './App.vue';
 import data_bank from './data_import';
@@ -13,6 +12,6 @@ new Vue({
 
 
 
-output(data_bank.deposit);
-output(data_bank.currency);
+//output(data_bank.deposit);
+//output(data_bank.currency);
 
